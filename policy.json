@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.0.2",
-  "min_supported_version": "2.0.2",
+  "latest_version": "2.0.0",
+  "min_supported_version": "2.0.0",
   "force_update": false,
   "maintenance_mode": false,
   "maintenance_message": "Currently we are facing issue in the app...",
@@ -13,8 +13,8 @@
     "update_summary_markdown": "### What's new\n- Performance improvements\n- fixed some more bugs \n- dasjkhsdhjkdsjkhgjkzfsdkjvgzfsdjkgbjszdv \n- sdfhjbsdkjfgbsdhjkf",
     "maintenance_markdown": "### Maintenance\nWe are upgrading systems.",
     "version_release_dates": {
-      "2.0.0": "2026-05-21T00:00:00Z",
-      "2.0.2": "2026-05-22T00:00:00Z"
+      "2.0.0": "2026-05-21T00:00:00Z"
+      // "2.0.2": "2026-05-22T00:00:00Z"
     }
   },
   "runtime_config": {
