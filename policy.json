@@ -14,7 +14,6 @@
     "maintenance_markdown": "### Maintenance\nWe are upgrading systems.",
     "version_release_dates": {
       "2.0.0": "2026-05-21T00:00:00Z"
-      // "2.0.2": "2026-05-22T00:00:00Z"
     }
   },
   "runtime_config": {
