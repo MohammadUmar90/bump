@@ -1,6 +1,6 @@
 {
   "latest_version": "2.0.2",
-  "min_supported_version": "2.0.3",
+  "min_supported_version": "2.0.2",
   "force_update": false,
   "maintenance_mode": false,
   "maintenance_message": "Currently we are facing issue in the app...",
