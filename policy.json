@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.0.3",
-  "min_supported_version": "2.0.0",
+  "latest_version": "2.0.4",
+  "min_supported_version": "2.0.2",
   "force_update": true,
   "maintenance_mode": false,
   "maintenance_message": "Currently we are facing issue in the app...",
@@ -15,7 +15,8 @@
     "version_release_dates": {
       "2.0.0": "2026-05-21T00:00:00Z",
       "2.0.2": "2026-05-22T00:00:00Z",
-      "2.0.3": "2026-05-28T14:30:00.000Z"
+      "2.0.3": "2026-05-28T14:30:00.000Z",
+      "2.0.4": "2026-05-28T14:30:00.000Z"
     }
   },
   "runtime_config": {
