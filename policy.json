@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.4",
-  "min_supported_version": "2.0.2",
-  "force_update": false,
+  "latest_version": "2.0.5",
+  "min_supported_version": "2.0.3",
+  "force_update": true,
   "maintenance_mode": false,
   "maintenance_message": "Currently we are facing issue in the app...",
   "android_store_url": "https://play.google.com/store/apps/details?id=fm.bump",
@@ -10,13 +10,14 @@
   "recheck_interval": 120,
   "content": {
     "update_title": "Stable release are fixed now roriking well nice well nice  ",
-    "update_summary_markdown": "### What's new\n- Performance improvements\n- fixed some more bugs",
+    "update_summary_markdown": "### What's new\n- Tutorial Updation and Launchpad UI improvements. \n- Fixed some more bugs",
     "maintenance_markdown": "### Maintenance\nWe are upgrading systems.",
     "version_release_dates": {
       "2.0.0": "2026-05-21T00:00:00Z",
       "2.0.2": "2026-05-22T00:00:00Z",
       "2.0.3": "2026-05-28T14:30:00.000Z",
-      "2.0.4": "2026-05-28T14:30:00.000Z"
+      "2.0.4": "2026-05-28T14:30:00.000Z",
+      "2.0.5": "2026-06-04T14:30:00.000Z"
     }
   },
   "runtime_config": {
