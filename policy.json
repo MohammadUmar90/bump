@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.9",
+  "latest_version": "2.0.10",
   "min_supported_version": "2.0.7",
   "force_update": true,
   "maintenance_mode": false,
@@ -10,7 +10,7 @@
   "recheck_interval": 120,
   "content": {
     "update_title": "Stable release are fixed now roriking well nice well nice  ",
-    "update_summary_markdown": "### What's new\n- Tutorial Updation and Launchpad UI improvements. \n- Fixed some more bugs",
+    "update_summary_markdown": "### What's new\n- Fixed some more bugs.",
     "maintenance_markdown": "### Maintenance\nWe are upgrading systems.",
     "version_release_dates": {
       "2.0.0": "2026-05-21T00:00:00Z",
@@ -20,6 +20,7 @@
       "2.0.5": "2026-06-04T14:30:00.000Z",
       "2.0.7": "2026-06-04T14:30:00.000Z",
       "2.0.9": "2026-06-18T14:30:00.000Z",
+      "2.0.10": "2026-06-19T14:30:00.000Z",
     }
   },
   "runtime_config": {
