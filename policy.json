@@ -168,6 +168,8 @@
       "solanaUpdateFees": "/solana/transaction/update-fees",
       "solanaPayFees": "/solana/transaction/pay-fees",
       "solanaInvest": "/solana/transaction/invest",
+      "solanaDepositPledge": "/solana/transaction/pledge/deposit",
+      "solanaWithdrawPledge": "/solana/transaction/pledge/withdraw",
       "solanaAutoScheduleLaunch": "/solana/auto/schedule-launch",
       "solanaAutoScheduleLaunchById": "/solana/auto/schedule-launch/{scheduleId}",
       "solanaAutoSellOrder": "/solana/auto/sell-order",
