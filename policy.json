@@ -26,7 +26,7 @@
     }
   },
   "runtime_config": {
-    "api_base_url": "https://api-v2.bump.fm",
+    "api_base_url": "https://api-new.bump.fm",
     "ws_base_url": "wss://api-v2.bump.fm/ws/v1",
     "api_version": "v1",
     "api_prefix": "/api",
