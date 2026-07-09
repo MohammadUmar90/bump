@@ -1,14 +1,14 @@
 {
-  "latest_version": "2.0.13",
-  "min_supported_version": "2.0.11",
-  "force_update": false,
+  "latest_version": "2.0.15",
+  "min_supported_version": "2.0.14",
+  "force_update": true,
   "remove_coming_soon": true,
   "maintenance_mode": false,
   "maintenance_message": "Currently we are facing issue in the app...",
   "android_store_url": "https://play.google.com/store/apps/details?id=fm.bump",
   "ios_store_url": "https://apps.apple.com/us/app/bump-fm/id6746159941",
-  "updated_at": "2026-05-28T14:30:00.000Z",
-  "recheck_interval": 120,
+  "updated_at": "2026-07-09T14:30:00.000Z",
+  "recheck_interval": 60,
   "content": {
     "update_title": "Stable release are fixed now roriking well nice well nice  ",
     "update_summary_markdown": "### What's new\n- Fixed some more bugs.",
@@ -22,7 +22,8 @@
       "2.0.7": "2026-06-04T14:30:00.000Z",
       "2.0.9": "2026-06-18T14:30:00.000Z",
       "2.0.10": "2026-06-19T14:30:00.000Z",
-      "2.0.13": "2026-07-01T14:30:00.000Z"
+      "2.0.13": "2026-07-01T14:30:00.000Z",
+      "2.0.15": "2026-07-09T14:30:00.000Z"
     }
   },
   "runtime_config": {
@@ -79,6 +80,10 @@
       "usersByWallet": "/users/wallet_address/{wallet}",
       "usersByFirebaseUid": "/users/firebase_uid/{uid}",
       "portfolioByUsername": "/users/portfolio/username/{username}",
+      "usersPledge": "/users/pledge",
+      "userPledgeBySlug": "/users/pledge/{slug}",
+      "removePledge": "/pledge",
+      "updatePledge": "/pledge",
       "artists": "/artists",
       "artistById": "/artists/{artistId}",
       "artistByUsername": "/artists/username/{username}",
@@ -86,6 +91,9 @@
       "updateMyArtistVideo": "/artists/me/video",
       "artistsTunedGlobalSearch": "/artists/tuned-global/search",
       "artistsClaim": "/artists/claim",
+      "artistsClaimWithdraw": "/artists/claim/{claimId}",
+      "artistsClaimSongStats": "/artists/claim/song-stats",
+      "artistsClaimComplete": "/artists/claim/complete",
       "artistsMe": "/artists/me",
       "artistsBecomeArtist": "/artists/become-artist",
       "artistsOnboardingMe": "/artists/onboarding/me",
@@ -111,6 +119,7 @@
       "songsByArtist": "/songs/artist/{artistId}",
       "songsByArtistUsername": "/songs/artist/{username}",
       "songsByTokenMints": "/songs/by-token-mints",
+      "songsLookup": "/songs/lookup",
       "songPreLaunchById": "/songs/pre-launch/{songId}",
       "songTranscription": "/songs/id/{songId}/transcription",
       "songTranscriptionBySlug": "/songs/slug/{slug}/transcription",
