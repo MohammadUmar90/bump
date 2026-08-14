@@ -1,7 +1,7 @@
 {
   "latest_version": "2.0.23",
   "min_supported_version": "2.0.18",
-  "force_update": true,
+  "force_update": false,
   "remove_coming_soon": true,
   "maintenance_mode": false,
   "maintenance_message": "Currently we are facing issue in the app...",
