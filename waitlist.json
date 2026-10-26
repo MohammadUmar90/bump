@@ -1,6 +1,6 @@
 
 {
   "version": "2.0.25+258",
-  "waitlist_enabled": true,
+  "waitlist_enabled": false,
   "recheck_interval": 30
 }
